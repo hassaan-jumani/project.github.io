@@ -1,0 +1,85 @@
+/* .upper {
+    text-align: right;
+    color: greenyellow;
+}
+#word {
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+}
+.icons-bar{
+    margin-left: 110px;
+    background: #3B5998;
+    color: white;
+    font-size: 0.5px;
+  
+}
+.icon-bar a:hover {
+    background-color: rgb(65, 45, 156);
+
+}
+
+.icon-bar a {
+    display: inline-block;
+    margin-left: 45px;
+    margin-bottom: 2px;
+    padding-top: 12px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+.first {
+    background-color: #316DC3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;   
+}
+.second{
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    
+}
+
+.logo {
+    display: inline;
+    margin-left: 125px;
+    
+}
+     
+
+
+.btn,.btn-outline-primary{
+    color: #427900;
+
+}
+.check {
+    border-radius: 20px;
+    
+}
+.ul a:hover {
+    background-color: #3B5998;
+
+    
+    
+}
+.ul > li{
+	padding: 18px 0;
+}
+
+.ul > li > a{
+	padding: 8px 16px;
+	border-radius: 30px;
+}
+
+/* Active/hover state (Menu items) */
+/* .ul > li.active > a,
+.ul > li:hover > a{
+	background: #333;
+    color: #fff; 
+}*/
+
+
+
+
+
